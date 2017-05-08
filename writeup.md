@@ -7,7 +7,7 @@
 [//]: # (Image References)
 
 [image1]: ./examples/visualization.png "Visualization"
-[image2]: ./examples/sample.jpg "Sample"
+[image2]: ./examples/sample.png "Sample"
 [image3]: ./examples/download.png "Downloaded images"
 [image4]: ./examples/featuremaps1.png "Feature map 1"
 [image5]: ./examples/featuremaps2.png "Feature map 2"
@@ -15,9 +15,9 @@
 
 ## Files submited
 
-    1. `Traffic_Sign_Classifier.ipynb`
-    1. `writeup.md`
-    1. `Traffic_Sign_Classifier.html`
+    1. Traffic_Sign_Classifier.ipynb
+    1. writeup.md
+    1. Traffic_Sign_Classifier.html
 
 ---
 
